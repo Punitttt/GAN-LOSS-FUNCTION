@@ -24,7 +24,7 @@ GANL_4_079/
 
 ---
 
-## 🌿 Implemented GAN Variants
+##  Implemented GAN Variants
 
 Each model uses a different loss function, implemented using PyTorch:
 
@@ -41,7 +41,7 @@ These variations help demonstrate how loss functions influence:
 
 ---
 
-## 📊 Samples & Logs
+##  Samples & Logs
 
 - `samples/generated_images/`: Images from different GAN variants
 - `samples/loss_plots/`: Training curves of G & D losses
@@ -49,16 +49,16 @@ These variations help demonstrate how loss functions influence:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 📋 Prerequisites
+### Prerequisites
 
 - Python 3.x
 - PyTorch (or TensorFlow, based on your implementation)
 - NumPy, OpenCV, Matplotlib
 - Jupyter Notebook
 
-### ⚙️ Installation
+###  Installation
 
 ```bash
 git clone https://github.com/your-username/GANL_4_079.git
@@ -66,7 +66,7 @@ cd GANL_4_079
 pip install -r requirements.txt
 ```
 
-### 🧪 Run
+###  Run
 
 ```bash
 jupyter notebook GANL_4_079.ipynb
@@ -76,13 +76,13 @@ You can switch between models by modifying the code in the notebook or the `mode
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 Pull requests for new GAN types or training enhancements are welcome. Please ensure any contributions are well-documented and tested.
 
 ---
 
-## 📄 License
+##  License
 
 This repository is available for educational and research purposes under the MIT License.
 
